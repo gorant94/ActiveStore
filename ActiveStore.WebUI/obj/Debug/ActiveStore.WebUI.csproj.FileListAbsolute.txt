@@ -1,0 +1,173 @@
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll.config
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Moq.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EnvDTE.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EnvDTE80.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\stdole.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Moq.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.pdb
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\csc.exe
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\vbc.exe
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll.config
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.pdb
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Moq.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\WebActivatorEx.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EnvDTE.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EnvDTE80.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\stdole.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.pdb
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Moq.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+H:\Диплом\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.csprojResolveAssemblyReference.cache
+H:\Диплом\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.dll
+H:\Диплом\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.pdb
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\csc.exe
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\vbc.exe
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll.config
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.WebUI.pdb
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Moq.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\WebActivatorEx.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EnvDTE.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EnvDTE80.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\stdole.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ActiveStore.Domain.pdb
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EntityFramework.SqlServer.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Moq.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Common.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Ninject.Web.Mvc.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Razor.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Webpages.Razor.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Helpers.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\System.Web.Mvc.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EnvDTE.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\EnvDTE80.xml
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Webpages.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.csprojResolveAssemblyReference.cache
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.dll
+H:\My\ДНУ им. О.Гончара\Дипломная работа\ActiveStore\ActiveStore.WebUI\obj\Debug\ActiveStore.WebUI.pdb

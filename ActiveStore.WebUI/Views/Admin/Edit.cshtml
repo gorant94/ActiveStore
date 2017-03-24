@@ -1,0 +1,203 @@
+﻿@model ActiveStore.Domain.Entities.Product
+
+@{
+    ViewBag.Title = "Админ панель: редактирование товара";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    div{
+        color:#e5e5e5;
+    }
+</style>
+
+<div class="panel">
+    <div class="panel-heading">
+        <h3>Редактирование товара «@Model.Name»</h3>
+    </div>
+
+    @using (Html.BeginForm("Edit", "Admin",
+                FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="panel-body">
+            @Html.HiddenFor(m => m.ProductId)
+            @foreach (var property in ViewData.ModelMetadata.Properties)
+            {
+                switch (property.PropertyName)
+                {
+                    case "ProductId":
+                    case "ImageData":
+                    case "ImageMimeType":
+                    case "ImageData2":
+                    case "ImageMimeType2":
+                    case "ImageData3":
+                    case "ImageMimeType3":
+                    case "ImageData4":
+                    case "ImageMimeType4":
+                    case "ImageData5":
+                    case "ImageMimeType5":
+                       // Ничего не делать
+                        break;
+                    default:
+                        <div class="form-group">
+                            <label>@(property.DisplayName ?? property.PropertyName)</label>
+                            @if (property.PropertyName == "FullDescription" )
+                            {
+                                @Html.TextArea(property.PropertyName, null,
+                                    new { @class = "form-control", rows = 5 })
+                            }
+                            else
+                            {
+                                @Html.TextBox(property.PropertyName, null,
+                                    new { @class = "form-control" })
+                            }
+                            @Html.ValidationMessage(property.PropertyName)
+                        </div>
+                        break;
+                }
+            }
+            <div class="form-group">
+                <div style="position:relative;">
+                    <label>Картинка 1</label>
+                    <a class='btn' href='javascript:;'>
+                        Выберите файл...
+                        <input type="file" name="Image" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val());'>
+                    </a>
+                    <span class='label label-info' id="upload-file-info"></span>
+                </div>
+                @if (Model.ImageData == null)
+                {
+                    <div class="form-control-static">Нет картинки</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src="@Url.Action("GetImage", "Product",
+                        new { Model.ProductId })" />
+                }
+
+          
+            </div>
+
+
+            <div class="form-group">
+                <div style="position:relative;">
+                    <label>Картинка 2</label>
+                    <a class='btn' href='javascript2:;'>
+                        Выберите файл...
+                        <input type="file" name="Image2" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val2());'>
+                    </a>
+                    <span class='label label-info' id="upload-file-info"></span>
+                </div>
+                @if (Model.ImageData2 == null)
+                {
+                    <div class="form-control-static">Нет картинки</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src="@Url.Action("GetImage2", "Product",
+                        new { Model.ProductId })" />
+                }
+
+
+            </div>
+
+            <div class="form-group">
+                <div style="position:relative;">
+                    <label>Картинка 3</label>
+                    <a class='btn' href='javascript2:;'>
+                        Выберите файл...
+                        <input type="file" name="Image3" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val2());'>
+                    </a>
+                    <span class='label label-info' id="upload-file-info"></span>
+                </div>
+                @if (Model.ImageData3 == null)
+                {
+                    <div class="form-control-static">Нет картинки</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src="@Url.Action("GetImage3", "Product",
+                        new { Model.ProductId })" />
+                }
+
+
+            </div>
+
+            <div class="form-group">
+                <div style="position:relative;">
+                    <label>Картинка 4</label>
+                    <a class='btn' href='javascript2:;'>
+                        Выберите файл...
+                        <input type="file" name="Image4" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val2());'>
+                    </a>
+                    <span class='label label-info' id="upload-file-info"></span>
+                </div>
+                @if (Model.ImageData4 == null)
+                {
+                    <div class="form-control-static">Нет картинки</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src="@Url.Action("GetImage4", "Product",
+                        new { Model.ProductId })" />
+                }
+
+
+            </div>
+            <div class="form-group">
+                <div style="position:relative;">
+                    <label>Картинка 5</label>
+                    <a class='btn' href='javascript2:;'>
+                        Выберите файл...
+                        <input type="file" name="Image5" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val2());'>
+                    </a>
+                    <span class='label label-info' id="upload-file-info"></span>
+                </div>
+                @if (Model.ImageData5 == null)
+                {
+                    <div class="form-control-static">Нет картинки</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src="@Url.Action("GetImage5", "Product",
+                        new { Model.ProductId })" />
+                }
+
+
+            </div>
+
+        </div>
+
+        <div class="panel-footer">
+            <input type="submit" value="Сохранить" class="btn btn-primary" />
+            @Html.ActionLink("Отменить изменения и вернуться к списку", "Index", null, new
+       {
+           @class = "btn btn-default"
+       })
+        </div>
+    }
+</div>
